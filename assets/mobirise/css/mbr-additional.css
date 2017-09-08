@@ -1630,7 +1630,7 @@ body {
 }
 .cid-qtV08ARVnu {
   padding-top: 30px;
-  padding-bottom: 45px;
+  padding-bottom: 0px;
   background-color: #efefef;
 }
 .cid-qtV08ARVnu .mbr-section-subtitle {
@@ -1639,49 +1639,44 @@ body {
 .cid-qtV08ARVnu H2 {
   color: #0438f9;
 }
+.cid-quFe1iegKU {
+  padding-top: 105px;
+  padding-bottom: 0px;
+  background-color: #efefef;
+}
+.cid-quFe1iegKU .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-quFe1iegKU H2 {
+  color: #0438f9;
+}
 .cid-qtVITlWsHi {
+  padding-top: 120px;
+  padding-bottom: 120px;
   background-image: url("../../../assets/images/about-1.png");
 }
 .cid-qtVITlWsHi .mbr-text,
 .cid-qtVITlWsHi .mbr-section-btn {
   text-align: left;
 }
-.cid-qtNUJwjayM {
-  padding-top: 30px;
-  padding-bottom: 30px;
+.cid-quF4SLpeEz {
+  padding-top: 105px;
+  padding-bottom: 0px;
   background-color: #efefef;
 }
-.cid-qtNUJwjayM .mbr-section-subtitle {
-  color: #ff3366;
+.cid-quF4SLpeEz .mbr-section-subtitle {
+  color: #767676;
 }
-.cid-qtNUJwjayM H2 {
+.cid-quF4SLpeEz H2 {
   color: #0438f9;
 }
 .cid-qtVIoiNvt2 {
+  padding-top: 90px;
+  padding-bottom: 120px;
   background-image: url("../../../assets/images/healthcare.jpg");
 }
 .cid-qtVIoiNvt2 .mbr-text,
 .cid-qtVIoiNvt2 .mbr-section-btn {
-  text-align: left;
-}
-.cid-quaPojdGDR {
-  padding-top: 30px;
-  padding-bottom: 30px;
-  background-color: #efefef;
-}
-.cid-quaPojdGDR .mbr-section-subtitle {
-  color: #ff3366;
-}
-.cid-quaPojdGDR H2 {
-  color: #0438f9;
-}
-.cid-qu9tCBqqaC {
-  padding-top: 120px;
-  padding-bottom: 90px;
-  background-image: url("../../../assets/images/bg3.jpg");
-}
-.cid-qu9tCBqqaC .mbr-text,
-.cid-qu9tCBqqaC .mbr-section-btn {
   text-align: left;
 }
 .cid-quEueXy78o {
@@ -1697,20 +1692,72 @@ body {
 }
 .cid-quEqclcPiQ {
   padding-top: 60px;
-  padding-bottom: 60px;
+  padding-bottom: 0px;
   background-color: #ffffff;
 }
 .cid-quEqclcPiQ .mbr-text,
 .cid-quEqclcPiQ blockquote {
   color: #767676;
 }
+.cid-quEqclcPiQ .mbr-text DIV {
+  color: #000000;
+}
+.cid-quEqclcPiQ .mbr-text {
+  color: #000000;
+}
+.cid-quFha3nHOg {
+  padding-top: 30px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-quFha3nHOg .counter-container {
+  color: #767676;
+}
+.cid-quFha3nHOg .counter-container ul {
+  margin-bottom: 0;
+}
+.cid-quFha3nHOg .counter-container ul li {
+  margin-bottom: 1rem;
+  list-style: none;
+}
+.cid-quFha3nHOg .counter-container ul li:before {
+  position: absolute;
+  left: 0px;
+  margin-top: -10px;
+  padding-top: 3px;
+  content: '';
+  display: inline-block;
+  text-align: center;
+  margin: 5px 10px;
+  line-height: 20px;
+  transition: all .2s;
+  color: #ffffff;
+  background: #ff3366;
+  width: 25px;
+  height: 25px;
+  border-radius: 50%;
+  content: '✓';
+}
+.cid-quFacQM5Yk {
+  padding-top: 105px;
+  padding-bottom: 0px;
+  background-color: #efefef;
+}
+.cid-quFacQM5Yk .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-quFacQM5Yk H2 {
+  color: #0438f9;
+}
 .cid-quzrm1tXUU {
-  background-image: url("../../../assets/images/healthcare4.jpg");
+  padding-top: 120px;
+  padding-bottom: 120px;
+  background-image: url("../../../assets/images/core2-1.jpg");
 }
 .cid-quzrm1tXUU .mbr-text,
 .cid-quzrm1tXUU .mbr-section-btn {
   text-align: left;
-  color: #000000;
+  color: #ffffff;
 }
 .cid-quzrm1tXUU H1 {
   color: #000000;
@@ -1794,8 +1841,19 @@ body {
 .cid-qtr4FyZWSf .panel-text {
   text-align: center;
 }
-.cid-quz3beoJnZ {
+.cid-quFde6imYg {
   padding-top: 105px;
+  padding-bottom: 0px;
+  background-color: #efefef;
+}
+.cid-quFde6imYg .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-quFde6imYg H2 {
+  color: #0438f9;
+}
+.cid-quz3beoJnZ {
+  padding-top: 30px;
   padding-bottom: 60px;
   background-image: url("../../../assets/images/background3.jpg");
 }
