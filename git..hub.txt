@@ -1,0 +1,16 @@
+
+clear
+ls
+GIT STATUS
+GIT LOG
+
+
+
+1 git clone https://github.com/dtm2018/coc.git
+2 cd gitRepo
+3 touch filename.ext
+4 git add .
+5 git commit -m "GET0101"
+6 git push
+
+
